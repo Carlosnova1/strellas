@@ -27,5 +27,11 @@ El objetivo de Strellas es crear un juego:
 
 Strellas está pensado principalmente para:
 
+
+Luego continúa con el resto del README.
+
+Puedes pegar desde esta parte en adelante:
+
+```markdown
 ```text
 Android
